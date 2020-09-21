@@ -10,11 +10,11 @@
     <name>gephi</name>
     
     <!-- Project Metadata -->
-    <url>http://gephi.org</url>
+    <url>https://gephi.org</url>
     <description>Gephi - The Open Graph Viz Platform</description>
     <organization>
         <name>Gephi Consortium</name>
-        <url>http://consortium.gephi.org</url>
+        <url>https://consortium.gephi.org</url>
     </organization>
     <inceptionYear>2007</inceptionYear>
     

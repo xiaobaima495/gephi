@@ -67,8 +67,8 @@ public class YifanHu implements LayoutBuilder {
 
     @Override
     public String getName() {
-//        return NbBundle.getMessage(YifanHu.class, "YifanHu.name");
-        return "新的布局";
+        return NbBundle.getMessage(YifanHu.class, "YifanHu.name");
+       
     }
 
     @Override
